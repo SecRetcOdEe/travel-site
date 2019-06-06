@@ -46,8 +46,6 @@
    z-index: 10;
    top: 10px;
    right: 10px;
-<<<<<<< HEAD
-=======
 
   &::before {
     content: "";
@@ -102,7 +100,7 @@
   &::after {
     transform: rotate(-45deg) scaleX(1.25) translateY(1px);
   }
->>>>>>> header
+
  }
 
  &__menu-content {
@@ -127,7 +125,3 @@
     transform: scale(1);
   }
  }
-<<<<<<< HEAD
-=======
-}
->>>>>>> header
