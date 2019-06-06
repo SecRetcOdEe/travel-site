@@ -1,4 +1,7 @@
 .site-footer {
+  position: absolute;
+  left: 0;
+  right: 0;
   background-color: $mainBlue;
   color: #FFF;
   padding: .5rem 0;
