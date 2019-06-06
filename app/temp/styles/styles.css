@@ -1127,8 +1127,11 @@ Instead edit gulp/templates/sprite */
 
 .site-header {
 <<<<<<< HEAD
+<<<<<<< HEAD
   position: absolute;
 =======
+=======
+>>>>>>> header
   padding: 10px 0;
   position: absolute;
   width: 100%;
@@ -1359,5 +1362,8 @@ Instead edit gulp/templates/sprite */
     padding: 12px 0;
     background-color: transparent
  }
+<<<<<<< HEAD
+>>>>>>> header
+=======
 >>>>>>> header
 }

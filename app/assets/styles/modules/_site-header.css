@@ -1,7 +1,10 @@
 .site-header {
 <<<<<<< HEAD
+<<<<<<< HEAD
   position: absolute;
 =======
+=======
+>>>>>>> header
   padding: 10px 0;
   position: absolute;
   width: 100%;
@@ -127,5 +130,8 @@
     transform: scale(1);
   }
  }
+<<<<<<< HEAD
+>>>>>>> header
+=======
 >>>>>>> header
 }
